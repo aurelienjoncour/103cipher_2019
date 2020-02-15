@@ -20,5 +20,6 @@ and its number of lines should be as small as possible,
 
 **Encryption**
 ![all text](https://imgur.com/zYYrNQF.png)
+
 **Decryption**
 ![all text](https://imgur.com/zH4oJOv.png)
